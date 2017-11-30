@@ -19,3 +19,9 @@ export CUDA_HOME="/usr/local/cuda"
 export PATH="$PATH:$CUDA_HOME/bin:$JDK_HOME/bin:$JAVA_HOME/bin:~/Library/android-studio/bin/"
 
 source ~/.bash_profile
+
+
+# gnome
+[SeatDefaults]
+user-session=unity
+https://askubuntu.com/questions/505398/difference-between-gnome-shell-ubuntu-gnome-desktop
