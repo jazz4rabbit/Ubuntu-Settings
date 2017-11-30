@@ -24,4 +24,7 @@ source ~/.bash_profile
 # gnome
 [SeatDefaults]
 user-session=unity
+
 https://askubuntu.com/questions/505398/difference-between-gnome-shell-ubuntu-gnome-desktop
+
+https://askubuntu.com/questions/62833/how-do-i-change-the-default-session-for-when-using-auto-logins
